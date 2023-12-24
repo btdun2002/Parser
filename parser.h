@@ -1,0 +1,11 @@
+void compileProgram(void);
+void compileBlock(void);
+void compileStatement(void);
+void compileCondition(void);
+void compileExpression(void);
+void compileTerm(void);
+void compileFactor(void);
+void Error(int);
+void compileDeclareConst(void);
+void compileDeclareVariable(void);
+void compileDeclareProcedure(void);

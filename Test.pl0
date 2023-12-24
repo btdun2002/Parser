@@ -1,0 +1,12 @@
+Program Vidu;
+Const x = 100
+Var x, y, z;
+Begin
+x := 10 * x + y;
+IF  X  > 10   Then 
+    X := 10 * (20)
+Else
+   X := 20;
+  CALL ABC;
+End.
+
